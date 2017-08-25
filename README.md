@@ -1,0 +1,2 @@
+# pythonCallShellCommand
+python调用shell命令，将本地某个文件拷贝到ipList.txt中所有服务器中
